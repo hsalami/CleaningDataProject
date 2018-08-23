@@ -8,8 +8,7 @@ It identifies the subject who performed the activity. Its range is from 1 to 30.
 
 2 activity
 It identifies the activity performed by the subject. There are 6 possible activities: walking, walking_upstairs, walking_downstairs, 
-sitting,
- standing, laying
+sitting, standing, laying
 
 
 
